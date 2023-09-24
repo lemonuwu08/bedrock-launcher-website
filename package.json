@@ -1,8 +1,8 @@
 {
   "name": "bedrock-launcher-website",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://hidden-darkness-9319.on.fleek.co/public/",
+  "private": false,
+  "homepage": "https://hidden-darkness-9319.on.fleek.co",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
